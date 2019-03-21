@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: Electrify.theme
+Version: 1.0.0-1
+Section: Themes
+Maintainer: appledeej <reposithree@gmail.com>
+Depends: firmware (>10.0)
+Architecture: iphoneos-arm
+Filename: ./themes/Electrify.theme
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: Dont even
+Name: Electrify
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
